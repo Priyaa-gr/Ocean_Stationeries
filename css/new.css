@@ -1,0 +1,169 @@
+.navbar-fixed-middle
+	{
+		background:black;
+		color:white;
+	}
+	.nav navbar-nav
+	{
+		background:black;
+	}
+	.panel
+	{
+		margin-top:5px;
+		margin-left:250px;	
+		
+		height:500px;
+	}
+	.user-panel
+	{
+		margin-top:16px;
+	}
+	.well
+	{  
+	    width:300px;
+	    margin-top:5px;
+		}
+	.dropdown-toggle
+	{   color:black;
+		font-family:Playfair Display;
+		font-size:22px;
+	}
+	.dropdown-menu
+	{   color:black;
+		font-family:Playfair Display;
+		font-size:17px;
+	}
+	
+	.icon-bar
+	{
+		background-color:black;
+	}
+	
+	
+	
+
+	
+	
+	.header-search-form {
+	width: 100%;
+	position: relative;
+	padding: 0 10px;
+	margin-top:8px;
+}
+
+	
+
+.header-search-form input {
+	width: 100%;
+	height: 44px;
+	font-size: 14px;
+	border-radius: 50px;
+	border: none;
+	padding: 0 19px;
+	background: #f0f0f0;
+}
+
+.header-search-form button {
+	position: absolute;
+	height: 70%;
+	top: 0;
+	font-size: 26px;
+	color: #000;
+	border: none;
+	cursor: pointer;
+	background-color: transparent;
+}
+.content
+{
+	position:absolute;
+	bottom:220px;
+	color:orange;
+	width:500%;
+	padding-left:250px;
+	padding-right:50px;
+	padding-top:50px;
+	}
+
+
+.welcome-text {
+    position: relative;
+    z-index: 1; }
+    .single-welcome-slide .welcome-text h2 {
+      font-size: 72px;
+      display: block;
+      margin-bottom: 30px;
+      color: #252525; }
+      @media only screen and (min-width: 992px) and (max-width: 1199px) {
+        .single-welcome-slide .welcome-text h2 {
+          font-size: 60px; } }
+      @media only screen and (min-width: 768px) and (max-width: 991px) {
+        .single-welcome-slide .welcome-text h2 {
+          font-size: 60px; } }
+      @media only screen and (max-width: 767px) {
+        .single-welcome-slide .welcome-text h2 {
+          font-size: 36px; } }
+
+.welcome-slides {
+  position: relative;
+  z-index: 1;
+  overflow: hidden; }
+
+
+.single-service-area {
+  position: relative;
+  z-index: 1;
+  padding: 40px 20px;
+  border: 1px solid #e5e5e5;
+  text-align: center;
+  -webkit-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  transition-duration: 500ms; }
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .single-service-area {
+      padding: 30px 15px; } }
+  .single-service-area img {
+    display: inline-block;
+    margin-bottom: 15px; }
+  .single-service-area h5 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    -webkit-transition-duration: 300ms;
+    -o-transition-duration: 300ms;
+    transition-duration: 300ms; }
+    @media only screen and (min-width: 992px) and (max-width: 1199px) {
+      .single-service-area h5 {
+        font-size: 18px; } }
+  .single-service-area p {
+    margin-bottom: 0; }
+    @media only screen and (min-width: 992px) and (max-width: 1199px) {
+      .single-service-area p {
+        font-size: 14px; } }
+  .single-service-area:hover, .single-service-area:focus {
+    border-color: transparent;
+    -webkit-box-shadow: 0 5px 90px 15px rgba (25, 25, 25, 0.25);
+    box-shadow: 0 5px 90px 15px rgba(25, 25, 25, 0.25); }
+    .single-service-area:hover h5, .single-service-area:focus h5 {
+      color: #bca858;
+	  }
+
+	  
+	  
+	  
+.add_to_cart_button
+{
+	width: 160px;
+	margin-left: 19px;
+	font-size: 12px !important;
+}
+	  
+	  
+	  
+	  
+	  .jumpotron
+	  {
+		  background-color:grey;
+	  }
+	  
+	  
+	
+	
